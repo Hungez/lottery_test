@@ -1,0 +1,44 @@
+/* CSS Document */
+body{margin:0px; background:#000000;}
+p{font-family:Tahoma; font-size:12px; font-weight:normal; color:#FFFFFF; margin:0px;}
+img{margin:0px;}
+ul{margin:0px; list-style:none;}
+
+
+/*Header*/
+#headwarp{width:779px; margin:auto; clear:both;}
+#navigation{width:779px; height:34px; margin:0px; background:url(../images/links-bg.gif) no-repeat;}
+#navigation ul{width:690px;}
+#navigation li{width:115px; height:34px; margin:0px; float:left; }
+#navigation li a{font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#FFFC00; text-decoration:none; text-transform:uppercase; padding-top:8px; display:block;}
+#navigation li a:hover{font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#FFFC00; text-decoration:none; text-transform:uppercase; background:url(../images/links-hover.gif) repeat-x top; display:block; height:34px; padding-top:8px;}
+#header1{width:338px; height:144px; margin:0px; background:url(../images/header1.jpg) no-repeat; float:left;}
+#header2{width:441px; height:144px; margin:0px; background:url(../images/header2.jpg) no-repeat; float:right;}
+#name{width:215px; font-family:"trebuchet MS"; font-size:38px; font-weight:normal; color:#FED904; margin-top:60px;}
+
+/*Body*/
+#bodywrap{width:779px; margin:auto; clear:both;}
+#body-left{width:268px; height:452px; margin:0px; background:url(../images/left-body-bg.gif) no-repeat; float:left;}
+#body-right{width:511px; height:452px; margin:0px; background:url(../images/body-bg.gif) no-repeat #000000; float:right;}
+#text-wrap{width:504px; margin-top:20px;}
+#lowerbody{width:504px; margin-top:10px;}
+#lower-bodyleft{width:304px; float:left;}
+#inner-left{width:268px; margin:0px; float:left;}
+#games-wrap{width:430px; height:93px; margin:0px; background:url(../images/games.gif) no-repeat top right;}
+#games{width:350px; margin:20px 0 0 10px;}
+#inner-right{width:36px; height:183px; margin-top:10px; float:right;}
+#lower-bodyright{width:200px; float:right; background:url(../images/news.gif) top right no-repeat; font-family:Tahoma; font-size:11px; font-weight:normal; color:#FFFFFF; margin:0px;}
+
+#footer{width:300px; margin-left:50px; font-family:Tahoma; font-size:11px; font-weight:normal; color:#FFFFFF;}
+
+.body-link{font-family:Tahoma; font-size:11px; font-weight:bold; color:#FFFFFF; text-decoration:none; text-transform:none;}
+.body-link:hover{font-family:Tahoma; font-size:11px; font-weight:bold; color:#FED904; text-decoration:none; text-transform:none;}
+
+.separator{background:url(../images/pink-dots.gif) repeat-x; height:5px;}
+
+.heading{font-family:"trebuchet MS"; font-size:20px; font-weight:bold; color:#FED904;}
+.yellow-bigheading{font-family:"trebuchet MS"; font-size:18px; font-weight:bold; color:#FED904; text-transform:uppercase;}
+.yellow-heading{font-family:"trebuchet MS"; font-size:16px; font-weight:bold; color:#FED904; text-transform:uppercase;}
+.white-text{font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:normal; color:#FFFFFF;}
+
+.mt10{margin-top:10px;}
